@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f0997e;
+  background: #b2c9ff;
 }
 
 .embedded-body {
@@ -21,20 +21,20 @@ body {
 }
 
 .top-nav {
-  background: #333;
+  background: #c5dfff;
   padding: 15px;
   text-align: center;
 }
 
 .top-nav a {
-  color: white;
+  color: rgb(255, 255, 255);
   text-decoration: none;
   margin: 0 15px;
   font-weight: bold;
 }
 
 .site-header {
-  background: #ddd;
+  background: #d2f1ff;
   padding: 30px;
   text-align: center;
 }
@@ -43,7 +43,7 @@ body {
   width: 80px;
   height: 80px;
   margin: 0 auto 10px;
-  background: #bbb;
+  background: #d0a3a3;
   line-height: 80px;
   text-align: center;
 }
@@ -51,12 +51,12 @@ body {
 .content {
   max-width: 900px;
   margin: 20px auto;
-  background: white;
+  background: #ffffff;
   padding: 20px;
 }
 
 .site-footer {
-  background: #333;
+  background: #c5dfff;
   color: white;
   text-align: center;
   padding: 20px;
