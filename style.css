@@ -67,12 +67,21 @@ body {
   margin-left: -20px;
 }
 .picture img {
-  width: 300px; 
-  height: 340px;
-  margin-left: 400px;
+  width: 370px; 
+  height: 400px;
+  margin-left: 149px;
+  margin-bottom: -20px;
 }
-.picture1 img {
-  width: 300px;
-  height: 340px;
-  margin-left: 1px;
+.photo img {
+  width: 400px;
+  height: 400px;
+  margin-left: 510px;
+  margin-top: -470px;
+}
+.photo3 img {
+  width: 400px;
+  height: 400px;
+  margin-left: 890px;
+  margin-top: -450px;
+  margin-bottom: 20px;
 }
