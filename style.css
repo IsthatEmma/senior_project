@@ -99,3 +99,24 @@ body {
   margin-bottom: 870px;
   margin-left: 1000px;
 }
+.photo4 img{
+   width: 360px;
+  height: 500px;
+  margin-left: 234px;
+  margin-top: -20px;
+  margin-bottom: 10px;
+}
+.photo5 img{
+  width: 340px;
+  height: 490px;
+  margin-left: 594px;
+  margin-top: -515px;
+  margin-bottom: 100px;
+}
+.photo6 img{
+  width: 340px;
+  height: 490px;
+  margin-left: 930px;
+  margin-top: -600px;
+  margin-bottom: 120px;
+}
