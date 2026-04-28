@@ -121,9 +121,30 @@ body {
   margin-bottom: 120px;
 }
 .Mindful1 img{
- width: 400px;
-  height: 490px;
+ width: 420px;
+  height: 500px;
   margin-left: -10px;
   margin-top: -8px;
   margin-bottom: -100px;
+}
+.brain img{
+  width: 1100px;
+  height: 1100px;
+  margin-top: -300px;
+  margin-left: 230px;
+
+}
+.mindful img{
+   width: 500px;
+  height: 500px;
+  margin-top: -900px;
+  margin-left: 100px;
+  margin-bottom: 380px;
+}
+.football img{
+   width: 500px;
+  height: 600px;
+  margin-left: 550px;
+  margin-top: -500px;
+  margin-bottom: -170px;
 }
