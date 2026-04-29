@@ -121,8 +121,8 @@ body {
   margin-bottom: 120px;
 }
 .Mindful1 img{
- width: 420px;
-  height: 500px;
+ width: 460px;
+  height: 580px;
   margin-left: -10px;
   margin-top: -8px;
   margin-bottom: -100px;
@@ -144,7 +144,43 @@ body {
 .football img{
    width: 500px;
   height: 600px;
-  margin-left: 200px;
+  margin-left: 180px;
   margin-top: -500px;
   margin-bottom: -170px;
+}
+.ball img{
+   width: 1100px;
+  height: 800px;
+  margin-left: -300px;
+  margin-top: -200px;
+
+}
+.prom img{
+   width: 530px;
+  height: 620px;
+  margin-top: -280px;
+  margin-left: -20px;
+
+}
+.prom2 img{
+   width: 1000px;
+  height: 800px;
+  margin-top: -200px;
+  margin-left: -400px;
+}
+
+.prom3 img{
+  width: 1000px;
+  height: 800px;
+  margin-top: -800px;
+  margin-left: -100px;
+}
+.disco img{
+  width: 600px;
+  height: 500px;
+  margin-top: -800px;
+  margin-left: 370px;
+  margin-bottom: 160px;
+
+
 }
